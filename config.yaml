@@ -1,0 +1,59 @@
+server:
+  http_port: 80
+  https_port: 443
+
+ssl:
+  enabled: true
+  cert_file: "cert.pem"
+  key_file: "key.pem"
+
+backends:
+  - name: "server-1"
+    url: "http://127.0.0.1:3001"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-2"
+    url: "http://127.0.0.1:3002"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-3"
+    url: "http://127.0.0.1:3003"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-4"
+    url: "http://127.0.0.1:3004"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-5"
+    url: "http://127.0.0.1:3005"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-6"
+    url: "http://127.0.0.1:3006"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-7"
+    url: "http://127.0.0.1:3007"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-8"
+    url: "http://127.0.0.1:3008"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-9"
+    url: "http://127.0.0.1:3009"
+    health_check_path: "/health"
+    interval_sec: 5
+
+  - name: "server-10"
+    url: "http://127.0.0.1:3010"
+    health_check_path: "/health"
+    interval_sec: 5

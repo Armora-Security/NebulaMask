@@ -24,8 +24,11 @@ It's ideal for environments where simplicity, reliability, and performance are k
 ## ⚙️ How It Works
 
 ### Architecture Overview
-Client --> [Port 80 (HTTP)] --(Redirect to HTTPS)--> [Port 443 (HTTPS)] | ↓ [Backend Servers] (Up to 10 backend nodes with health monitoring)
-
+Client --> [Port 80 (HTTP)] --(Redirect to HTTPS)--> [Port 443 (HTTPS)]
+                             |
+                             ↓
+                      [Backend Servers]
+         (Up to 10 backend nodes with health monitoring)
 
 ### Core Features
 

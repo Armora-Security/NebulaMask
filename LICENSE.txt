@@ -1,0 +1,17 @@
+Armora NebulaMask – Proprietary Software License
+
+This software is protected under exclusive copyright and may not be used, copied, modified, distributed, or resold without explicit written permission from the copyright holder.
+
+INFRINGEMENT WARNING:
+Any unauthorized use, reproduction, or redistribution of this software may result in legal action and substantial damages.
+
+COMMERCIAL USE:
+Commercial deployment or integration requires a valid paid license. Contact the owner for licensing options.
+
+PERSONAL USE:
+Only approved contributors may use this software for private, non-commercial purposes. Reselling or redistributing this software is strictly forbidden.
+
+DISCLAIMER:
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+BY USING THIS SOFTWARE YOU AGREE TO ALL TERMS STATED HEREIN.
